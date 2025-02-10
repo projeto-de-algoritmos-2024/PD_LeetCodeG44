@@ -32,7 +32,7 @@
 ![1510. Stone Game IV](./screenshot/1510.Stone-Game-IV.png)
 ### 787. Cheapest Flights Within K Stops
 ![787. Cheapest Flights Within K Stops](./screenshot/787.Cheapest-Flights-Within-K-Stops.png)
-### 787. Maximum Profit in Job Scheduling
+### 1235. Maximum Profit in Job Scheduling
 ![1235. Maximum Profit in Job Scheduling](./screenshot/1235.Maximum-Profit-in-Job-Scheduling.png)
 ## Instalação
 
