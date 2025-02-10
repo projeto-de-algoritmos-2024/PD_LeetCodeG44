@@ -36,4 +36,4 @@ Framework = Nenhum</br>
 
 ## Uso
 
-## Outros
+Acesse os Links e execute no juíz online.
